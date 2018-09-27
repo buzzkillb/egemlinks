@@ -6,3 +6,5 @@ website using Markdown and git.
 EGEM Links.
 
 View the thing [here](https://egemlinks.dnregemx.sh/).
+
+![EGEM](https://i.imgur.com/7V69xn3.gif)
