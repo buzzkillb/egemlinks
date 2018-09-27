@@ -5,7 +5,7 @@ tagline: EGEM Coin Links
 description: EGEM Crypto Links
 ---
 # ![Ethergem](https://i.imgur.com/p3SC8vm.png?1)
-
+EGEM is the stable pure no pre mine coin with applied technologies peernet and per block endowment. 
 <table>
   <tr>
     <th>Coin</th>
@@ -22,10 +22,19 @@ description: EGEM Crypto Links
 	<td>Quarry Nodes</td>
   </tr>
 </table>
-
+ 
 ## Official [EGEM]
-[https://egem.io/](https://egem.io/)  
-[https://github.com/TeamEGEM](https://github.com/TeamEGEM)  
+[Website](https://egem.io/)  
+[Github](https://github.com/TeamEGEM)
+[Network](http://network.egem.io/)  
+[Block Explorer](https://explorer.egem.io/)  
+[Exchange](https://ex.egem.io/)  
+
+### Social Media  
+[Reddit](https://www.reddit.com/r/egem/)  
+[Discord](https://discord.gg/39WGWRB)  
+[Twitter](https://twitter.com/ETHERGEMCOIN)  
+Telegram - @EGEM_Team  
 
 ### Wallets
 [https://myegemwallet.com/](https://myegemwallet.com/)  
@@ -36,3 +45,7 @@ description: EGEM Crypto Links
 **Graviex**  
 [https://graviex.net/markets/egembtc](https://graviex.net/markets/egembtc)  
 [https://graviex.net/markets/egemeth](https://graviex.net/markets/egemeth)  
+
+### Mining Pools  
+[http://pool.egem.io/](http://pool.egem.io/)  
+
