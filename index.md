@@ -25,3 +25,14 @@ description: EGEM Crypto Links
 
 ## Official [EGEM]
 [https://egem.io/](https://egem.io/)  
+[https://github.com/TeamEGEM](https://github.com/TeamEGEM)  
+
+### Wallets
+[https://myegemwallet.com/](https://myegemwallet.com/)  
+[https://github.com/TeamEGEM/Opal-Wallet](https://github.com/TeamEGEM/Opal-Wallet)  
+[https://www.myetherwallet.com/](https://www.myetherwallet.com/)  
+
+### Exchanges
+**Graviex**  
+[https://graviex.net/markets/egembtc](https://graviex.net/markets/egembtc)  
+[https://graviex.net/markets/egemeth](https://graviex.net/markets/egemeth)  
