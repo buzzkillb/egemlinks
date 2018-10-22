@@ -28,6 +28,7 @@ EGEM is the stable pure no pre mine coin with applied technologies peernet and p
 [Gitlab](https://git.egem.io/team)
 [Network](http://network.egem.io/)  
 [Block Explorer](https://explorer.egem.io/)  
+[Forum](https://forum.egem.io/)  
 [Exchange](https://ex.egem.io/)  
 
 ### Social Media  
