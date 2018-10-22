@@ -52,8 +52,8 @@ Telegram - @EGEM_Team
 
 ### Podcasts
 (2018-10-22) Coach Cryptos Proof of Work Podcast  
-https://bit.tube/play?hash=QmS1SUmuXFPNhREocoRL5o324NtpzxrNDSfM2HGwK5b7JS&channel=20427  
-https://www.google.com/podcasts?feed=aHR0cHM6Ly9hbmNob3IuZm0vcy80MzRiYmMwL3BvZGNhc3QvcnNz  
-https://radiopublic.com/proofofwork-podcast-8gvOQK  
-https://www.breaker.audio/proof-of-work-podcast  
-https://pca.st/u7Qm  
+[Bittube](https://bit.tube/play?hash=QmS1SUmuXFPNhREocoRL5o324NtpzxrNDSfM2HGwK5b7JS&channel=20427)  
+[Google Podcast](https://www.google.com/podcasts?feed=aHR0cHM6Ly9hbmNob3IuZm0vcy80MzRiYmMwL3BvZGNhc3QvcnNz)  
+[Radiopublic](https://radiopublic.com/proofofwork-podcast-8gvOQK)  
+[Breaker](https://www.breaker.audio/proof-of-work-podcast)  
+[Pcast](https://pca.st/u7Qm)  
