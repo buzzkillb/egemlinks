@@ -39,7 +39,7 @@ Telegram - @EGEM_Team
 
 ### Wallets
 [https://myegemwallet.com/](https://myegemwallet.com/)  
-[https://github.com/TeamEGEM/Opal-Wallet](https://github.com/TeamEGEM/Opal-Wallet)  
+[Opal Wallet](https://git.egem.io/team/Opal-Alpha-0-0-1)  
 [https://www.myetherwallet.com/](https://www.myetherwallet.com/)  
 
 ### Exchanges
