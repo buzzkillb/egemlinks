@@ -46,7 +46,7 @@ Telegram - @EGEM_Team
 **Graviex**  
 [https://graviex.net/markets/egembtc](https://graviex.net/markets/egembtc)  
 [https://graviex.net/markets/egemeth](https://graviex.net/markets/egemeth)  
-**Maplechange**
+**Maplechange**  
 [https://maplechange.com/markets/egembtc](https://maplechange.com/markets/egembtc)  
 [https://maplechange.com/markets/egemltc](https://maplechange.com/markets/egemltc)  
 [https://maplechange.com/markets/dnregem](https://maplechange.com/markets/dnregem)  
