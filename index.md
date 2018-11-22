@@ -50,6 +50,9 @@ Telegram - @EGEM_Team
 ### Mining Pools  
 [http://pool.egem.io/](http://pool.egem.io/)  
 
+### Stats Pages  
+[Quarry Node Stats/](https://triforce.egem.io/egem/)  
+
 ### Podcasts
 (2018-10-22) Coach Cryptos Proof of Work Podcast  
 [Bittube](https://bit.tube/play?hash=QmS1SUmuXFPNhREocoRL5o324NtpzxrNDSfM2HGwK5b7JS&channel=20427)  
