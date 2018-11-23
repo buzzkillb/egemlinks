@@ -46,7 +46,17 @@ Telegram - @EGEM_Team
 ### Exchanges
 **Graviex**  
 [https://graviex.net/markets/egembtc](https://graviex.net/markets/egembtc)  
-[https://graviex.net/markets/egemeth](https://graviex.net/markets/egemeth)  
+[https://graviex.net/markets/egemeth](https://graviex.net/markets/egemeth)
+
+### Market Info
+https://www.cheddur.com/coins/ethergem
+https://coinmarketcap.com/currencies/ethergem/
+https://www.livecoinwatch.com/price/EtherGem-EGEM
+https://walletinvestor.com/currency/ethergem
+https://www.worldcoinindex.com/coin/ethergem
+http://cryptofresh.com/a/EGEM
+https://coincodex.com/crypto/ethergem/
+https://coinlib.io/coin/EGEM/EtherGem
 
 ### Mining Pools  
 [http://pool.egem.io/](http://pool.egem.io/)  
