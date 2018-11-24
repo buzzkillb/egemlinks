@@ -60,6 +60,7 @@ Telegram - @EGEM_Team
 
 ### Mining Pools  
 [https://git.egem.io/team/egem-pools/blob/master/masterlist.json](https://git.egem.io/team/egem-pools/blob/master/masterlist.json)  
+[https://miningpoolstats.stream/ethergem](https://miningpoolstats.stream/ethergem)  
 [http://pool.egem.io/](http://pool.egem.io/)  
 
 ### Stats Pages  
