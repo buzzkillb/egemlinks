@@ -59,6 +59,7 @@ Telegram - @EGEM_Team
 [https://coinlib.io/coin/EGEM/EtherGem](https://coinlib.io/coin/EGEM/EtherGem)  
 
 ### Mining Pools  
+[https://git.egem.io/team/egem-pools/blob/master/masterlist.json](https://git.egem.io/team/egem-pools/blob/master/masterlist.json)  
 [http://pool.egem.io/](http://pool.egem.io/)  
 
 ### Stats Pages  
