@@ -80,9 +80,13 @@ Telegram - @EGEM_Team
 ### Podcasts
 (2018-11-19) Bitcoin Incognito & EGEM Monsters feat. Galimba, Sys, NotFreight  
 [Spotify](https://open.spotify.com/episode/6BfBVLwb5KmsboCG7HVt4Y?si=zYGDR_cwQims-eQbbI4TRg)  
+(2018-11-06) Masari & EGEM SFRX feat. Thaer  
+[Spotify](https://open.spotify.com/episode/3ybwALVvJnMmHtp27l3cG2)  
 (2018-10-22) Coach Cryptos Proof of Work Podcast  
 [Bittube](https://bit.tube/play?hash=QmS1SUmuXFPNhREocoRL5o324NtpzxrNDSfM2HGwK5b7JS&channel=20427)  
 [Google Podcast](https://www.google.com/podcasts?feed=aHR0cHM6Ly9hbmNob3IuZm0vcy80MzRiYmMwL3BvZGNhc3QvcnNz)  
 [Radiopublic](https://radiopublic.com/proofofwork-podcast-8gvOQK)  
 [Breaker](https://www.breaker.audio/proof-of-work-podcast)  
 [Pcast](https://pca.st/u7Qm)  
+(2018-09-02) EtherGem feat. osoese, jal3inc & riddlez666  
+[Spotify](https://open.spotify.com/episode/6mc8chbmeyyPv3aAGpPoRQ)  
