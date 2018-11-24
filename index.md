@@ -78,7 +78,7 @@ Telegram - @EGEM_Team
 [Quarry Node Stats](https://triforce.egem.io/egem/)  
 
 ### Podcasts
-Bitcoin Incognito & EGEM Monsters feat. Galimba, Sys, NotFreight  
+(2018-11-19) Bitcoin Incognito & EGEM Monsters feat. Galimba, Sys, NotFreight  
 [Spotify](https://open.spotify.com/episode/6BfBVLwb5KmsboCG7HVt4Y?si=zYGDR_cwQims-eQbbI4TRg)  
 (2018-10-22) Coach Cryptos Proof of Work Podcast  
 [Bittube](https://bit.tube/play?hash=QmS1SUmuXFPNhREocoRL5o324NtpzxrNDSfM2HGwK5b7JS&channel=20427)  
