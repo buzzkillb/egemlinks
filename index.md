@@ -51,6 +51,8 @@ Telegram - @EGEM_Team
 [https://app.stex.com/en/trade/pair/BTC/EGEM/1D](https://app.stex.com/en/trade/pair/BTC/EGEM/1D)  
 **FirstCryptoBank**  
 [https://fcbaccount.com/](https://fcbaccount.com/)  
+**Raisex**  
+[https://raisex.io](https://raisex.io)  
 
 ### Market Info
 [https://www.cheddur.com/coins/ethergem](https://www.cheddur.com/coins/ethergem)  
