@@ -46,7 +46,9 @@ Telegram - @EGEM_Team
 ### Exchanges
 **Graviex**  
 [https://graviex.net/markets/egembtc](https://graviex.net/markets/egembtc)  
-[https://graviex.net/markets/egemeth](https://graviex.net/markets/egemeth)
+[https://graviex.net/markets/egemeth](https://graviex.net/markets/egemeth)  
+**Stex**  
+[https://app.stex.com/en/trade/pair/BTC/EGEM/1D](https://app.stex.com/en/trade/pair/BTC/EGEM/1D)  
 
 ### Market Info
 [https://www.cheddur.com/coins/ethergem](https://www.cheddur.com/coins/ethergem)  
