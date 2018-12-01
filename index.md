@@ -47,6 +47,7 @@ Telegram - @EGEM_Team
 [https://myegemwallet.com/](https://myegemwallet.com/)  
 [Opal Wallet](https://git.egem.io/team/Opal-Alpha-0-0-1)  
 [https://www.myetherwallet.com/](https://www.myetherwallet.com/)  
+Set custom network on Metamask -> https://jsonrpc.egem.io/custom  
 
 ### Exchanges
 **Graviex**  
