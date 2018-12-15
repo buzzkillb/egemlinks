@@ -59,6 +59,8 @@ Set custom network on Metamask -> https://jsonrpc.egem.io/custom
 [https://fcbaccount.com/](https://fcbaccount.com/)  
 **Raisex**  
 [https://raisex.io](https://raisex.io)  
+**Escodex**  
+[https://wallet.escodex.com/market/ESCODEX.EGEM_ESCODEX.BTC](https://wallet.escodex.com/market/ESCODEX.EGEM_ESCODEX.BTC)  
 
 ### Market Info
 [https://www.cheddur.com/coins/ethergem](https://www.cheddur.com/coins/ethergem)  
