@@ -29,6 +29,7 @@ EGEM is the stable pure no pre mine coin with applied technologies peernet and p
 [Bitcointalk ANN](https://bitcointalk.org/index.php?topic=3167940.0)  
 [EGEM Meta](https://git.egem.io/team/egem-meta)  
 [Network Stats](http://network.egem.io/)  
+[Quarry Node Stats](http://quarrystats.egem.io/)  
 [Block Explorer](https://explorer.egem.io/)  
 [Beta Block Explorer](http://beta-explorer.egem.io/)  
 [Forum](https://forum.egem.io/)  
