@@ -83,7 +83,8 @@ Set custom network on Metamask -> https://jsonrpc.egem.io/custom
 [Quarry Node Stats](https://triforce.egem.io/egem/)  
 
 ### Podcasts
-[Crypto n' Shit Episode 1](https://www.youtube.com/watch?v=pV1ROovsziA)  
+(2019-03-17) Crypto n' Shit Episode 1  
+[youtube](https://www.youtube.com/watch?v=pV1ROovsziA)  
 (2018-11-19) Bitcoin Incognito & EGEM Monsters feat. Galimba, Sys, NotFreight  
 [Spotify](https://open.spotify.com/episode/6BfBVLwb5KmsboCG7HVt4Y?si=zYGDR_cwQims-eQbbI4TRg)  
 (2018-11-06) Masari & EGEM SFRX feat. Thaer  
