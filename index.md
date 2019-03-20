@@ -43,7 +43,7 @@ EGEM is the stable pure no pre mine coin with applied technologies peernet and p
 [Reddit](https://www.reddit.com/r/egem/)  
 [Discord](https://discord.gg/39WGWRB)  
 [Twitter](https://twitter.com/ETHERGEMCOIN)  
-Telegram - @EGEM_Team  
+[Telegram](t.me/egemofficial)  
 
 ### Wallets
 [https://myegemwallet.com/](https://myegemwallet.com/)  
