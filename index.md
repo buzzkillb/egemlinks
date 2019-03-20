@@ -84,7 +84,9 @@ Set custom network on Metamask -> https://jsonrpc.egem.io/custom
 ### Stats Pages  
 [Quarry Node Stats](https://triforce.egem.io/egem/)  
 
-### Podcasts
+### Video/Audo Streams
+(2019-03-20) EtherGem (EGEM) майним картами Nvidia (algo Ethash) | Выпуск 199 | Опыт майнинга криптовалют  
+[youtube](https://youtu.be/ifB2XEHF8TM)  
 (2019-03-17) Crypto n' Shit Episode 1  
 [youtube](https://www.youtube.com/watch?v=pV1ROovsziA)  
 (2018-11-19) Bitcoin Incognito & EGEM Monsters feat. Galimba, Sys, NotFreight  
