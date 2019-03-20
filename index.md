@@ -87,6 +87,9 @@ Set custom network on Metamask -> https://jsonrpc.egem.io/custom
 ### Stats Pages  
 [Quarry Node Stats](https://triforce.egem.io/egem/)  
 
+### Research  
+[Top Cryptocurrency Projects Part 2: ETHERGEM CALLISTO DASH](https://www.publish0x.com/cryptokeeper/top-cryptocurrency-projects-part-2-ethergem-callisto-dash-xmmwm)  
+
 ### Video/Audo Streams
 (2019-03-20) EtherGem (EGEM) майним картами Nvidia (algo Ethash) | Выпуск 199 | Опыт майнинга криптовалют  
 [youtube](https://youtu.be/ifB2XEHF8TM)  
