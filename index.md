@@ -75,6 +75,7 @@ Set custom network on Metamask -> https://jsonrpc.egem.io/custom
 [https://coinlib.io/coin/EGEM/EtherGem](https://coinlib.io/coin/EGEM/EtherGem)  
 
 ### Mining Pools  
+[https://mining.alekseirubin.com/calculator/EGEM?hashrate=100&diffPage=current](https://mining.alekseirubin.com/calculator/EGEM?hashrate=100&diffPage=current)  
 [https://git.egem.io/team/egem-pools/blob/master/masterlist.json](https://git.egem.io/team/egem-pools/blob/master/masterlist.json)  
 [Pool Explorer](https://poolexplorer.com/coin/4970)  
 [https://miningpoolstats.stream/ethergem](https://miningpoolstats.stream/ethergem)  
