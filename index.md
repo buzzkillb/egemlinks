@@ -66,6 +66,7 @@ Set custom network on Metamask -> https://jsonrpc.egem.io/custom
 ### Market Info
 [https://www.cheddur.com/coins/ethergem](https://www.cheddur.com/coins/ethergem)  
 [https://coinmarketcap.com/currencies/ethergem/](https://coinmarketcap.com/currencies/ethergem/)  
+[https://coinmarketcap.com/converter/egem/usd/](https://coinmarketcap.com/converter/egem/usd/)  
 [https://www.livecoinwatch.com/price/EtherGem-EGEM](https://www.livecoinwatch.com/price/EtherGem-EGEM)  
 [https://walletinvestor.com/currency/ethergem](https://walletinvestor.com/currency/ethergem)  
 [https://www.worldcoinindex.com/coin/ethergem](https://www.worldcoinindex.com/coin/ethergem)  
