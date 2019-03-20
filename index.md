@@ -32,7 +32,8 @@ EGEM is the stable pure no pre mine coin with applied technologies peernet and p
 [Quarry Node Stats](http://quarrystats.egem.io/)  
 [Block Explorer](https://explorer.egem.io/)  
 [Beta Block Explorer](http://beta-explorer.egem.io/)  
-[Forum](https://forum.egem.io/)  
+[Wiki](https://wiki.egem.io)  
+[Forum](https://wiki.egem.io/xwiki/bin/view/Forums/)  
 [Exchange](https://ex.egem.io/) 
 
 ## Official Sapphire [SFRX]  
