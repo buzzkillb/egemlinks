@@ -4,7 +4,9 @@ title: [EGEM] Ethergem Links
 tagline: EGEM Coin Links
 description: EGEM Crypto Links
 ---
-# ![Ethergem](https://git.egem.io/team/egem-meta/raw/master/images/egem_white.png)
+<p align="center">
+  <img src="https://git.egem.io/team/egem-meta/raw/master/images/egem_white.png" width="256" title="EGEM Logo">
+</p>
 EGEM is the stable pure no pre mine coin with applied technologies peernet and per block endowment. 
 <table>
   <tr>
