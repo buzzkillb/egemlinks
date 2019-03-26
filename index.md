@@ -114,3 +114,6 @@ Set custom network on Metamask -> https://lb.rpc.egem.io
 [Pcast](https://pca.st/u7Qm)  
 (2018-09-02) EtherGem feat. osoese, jal3inc & riddlez666  
 [Spotify](https://open.spotify.com/episode/6mc8chbmeyyPv3aAGpPoRQ)  
+
+<script src="https://widgets.coingecko.com/coingecko-coin-ticker-widget.js"></script>
+<coingecko-coin-ticker-widget currency="usd" coin-id="ethergem" locale="en"></coingecko-coin-ticker-widget>
