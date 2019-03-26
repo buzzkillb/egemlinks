@@ -41,6 +41,22 @@ EGEM is the stable pure no pre mine coin with applied technologies peernet and p
 <p align="left">
   <img src="https://i.imgur.com/IdQbfy6.png?1" title="Sapphire Logo">
 </p>
+<table>
+  <tr>
+    <th>Coin</th>
+    <th>Blocktime</th> 
+    <th>Consensus</th>
+    <th>Algorithm</th>
+    <th>Features</th>
+  </tr>
+  <tr>
+    <td>SFRX</td>
+    <td>5 Seconds</td>
+    <td>POW</td>
+    <td>Blake2s</td>
+	<td>Private Testnet</td>
+  </tr>
+</table>
 ## Official Sapphire [SFRX]  
 [Bitcointalk ANN](https://bitcointalk.org/index.php?topic=5063954.0)  
 
