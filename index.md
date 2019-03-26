@@ -88,6 +88,7 @@ Set custom network on Metamask -> https://lb.rpc.egem.io
 [https://wallet.escodex.com/market/ESCODEX.EGEM_ESCODEX.BTC](https://wallet.escodex.com/market/ESCODEX.EGEM_ESCODEX.BTC)  
 
 ### Market Info
+[https://www.coingecko.com/en/coins/ethergem](https://www.coingecko.com/en/coins/ethergem)  
 [https://www.cheddur.com/coins/ethergem](https://www.cheddur.com/coins/ethergem)  
 [https://coinmarketcap.com/currencies/ethergem/](https://coinmarketcap.com/currencies/ethergem/)  
 [https://coinmarketcap.com/converter/egem/usd/](https://coinmarketcap.com/converter/egem/usd/)  
