@@ -6,7 +6,7 @@ description: EGEM Crypto Links
 ---
 
 <p align="left">
-  <img src="https://i.imgur.com/SALceE0.png" height="40" title="EGEM Logo">
+  <img src="https://i.imgur.com/hUYT0ok.png" title="EGEM Logo">
 </p> 
 EGEM is the stable pure no pre mine coin with applied technologies peernet and per block endowment. 
 <table>
