@@ -5,7 +5,7 @@ tagline: EGEM Coin Links
 description: EGEM Crypto Links
 ---
 <p align="center">
-  <img src="https://i.imgur.com/SALceE0.png" title="EGEM Logo">
+  <img src="https://i.imgur.com/hUYT0ok.png" height="99" title="EGEM Logo">
 </p>
 EGEM is the stable pure no pre mine coin with applied technologies peernet and per block endowment. 
 <table>
@@ -24,7 +24,10 @@ EGEM is the stable pure no pre mine coin with applied technologies peernet and p
 	<td>Quarry Nodes</td>
   </tr>
 </table>
- 
+
+<p align="left">
+  <img src="https://i.imgur.com/SALceE0.png" height="99" title="EGEM Logo">
+</p> 
 ## Official Ethergem [EGEM]
 [Website](https://egem.io/)  
 [Gitlab](https://git.egem.io/team)  
@@ -38,6 +41,9 @@ EGEM is the stable pure no pre mine coin with applied technologies peernet and p
 [Forum](https://wiki.egem.io/xwiki/bin/view/Forums/)  
 [Exchange](https://ex.egem.io/) 
 
+<p align="left">
+  <img src="https://i.imgur.com/IdQbfy6.png" height="99" title="Sapphire Logo">
+</p>
 ## Official Sapphire [SFRX]  
 [Bitcointalk ANN](https://bitcointalk.org/index.php?topic=5063954.0)  
 
