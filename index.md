@@ -73,7 +73,8 @@ EGEM is the stable pure no pre mine coin with applied technologies peernet and p
 [https://www.myetherwallet.com/](https://www.myetherwallet.com/)  
 Set custom network on Metamask -> https://lb.rpc.egem.io  
 [Ledger](https://support.ledger.com/hc/en-us/articles/360009611074-EtherGem-EGEM-)  
-[Trezor](https://trezor.io/coins)  
+[Trezor](https://trezor.io/coins) 
+[Docker](https://hub.docker.com/r/ethergem/go-egem)  
 
 ### Exchanges
 **Graviex**  
