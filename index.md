@@ -116,6 +116,8 @@ Set custom network on Metamask -> https://lb.rpc.egem.io
 
 ### Articles  
 [EtherGem May 2019 Update](https://medium.com/@egem.cm/ethergem-may-update-c971237605d9)  
+[EtherGem February 2019 Update](https://medium.com/@egem.cm/february-update-7ac9771e8531)  
+[EtherGem September 2018 Update](https://medium.com/@egem.cm/egem-september-update-4aae213a862e)  
 
 ### Video/Audo Streams  
 (2019-03-22) ITK Crypto #10 - Ethergem- featuring Osoese & Tbates76  
