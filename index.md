@@ -121,7 +121,7 @@ Set custom network on Metamask -> https://lb.rpc.egem.io
 
 ### Video/Audo Streams  
 (2019-05-26) SFRX Acct modal & some progress  
-[youtube](https://www.youtube.com/watch?v=tNAwVSAJWWs) 
+[youtube](https://www.youtube.com/watch?v=tNAwVSAJWWs)  
 (2019-05-24) SFRX latest  
 [youtube](https://www.youtube.com/watch?v=9ibflZwromY)  
 (2019-05-15) SFRX My test of sapphire using mobile app  
