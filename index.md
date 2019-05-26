@@ -121,7 +121,15 @@ Set custom network on Metamask -> https://lb.rpc.egem.io
 
 ### Video/Audo Streams  
 (2019-05-26) SFRX Acct modal & some progress  
-[youtube](https://www.youtube.com/watch?v=tNAwVSAJWWs)  
+[youtube](https://www.youtube.com/watch?v=tNAwVSAJWWs) 
+(2019-05-24) SFRX latest  
+[youtube](https://www.youtube.com/watch?v=9ibflZwromY)  
+(2019-05-15) SFRX My test of sapphire using mobile app  
+[youtube](https://www.youtube.com/watch?v=KjxYbnaYqj4)  
+(2019-05-11) SFRX mobile testing 051119  
+[youtube](https://www.youtube.com/watch?v=dBJp9a_WNMY)  
+(2019-05-09) SFRX mobile testing 050919  
+[youtube](https://www.youtube.com/watch?v=Z5EAgbhOc44)  
 (2019-03-22) ITK Crypto #10 - Ethergem- featuring Osoese & Tbates76  
 [youtube](https://youtu.be/lymppbvjOes)  
 (2019-03-20) EtherGem (EGEM) майним картами Nvidia (algo Ethash) | Выпуск 199 | Опыт майнинга криптовалют  
