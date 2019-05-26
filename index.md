@@ -120,6 +120,8 @@ Set custom network on Metamask -> https://lb.rpc.egem.io
 [EtherGem September 2018 Update](https://medium.com/@egem.cm/egem-september-update-4aae213a862e)  
 
 ### Video/Audo Streams  
+(2019-05-26) SFRX Acct modal & some progress  
+[youtube](https://www.youtube.com/watch?v=tNAwVSAJWWs)  
 (2019-03-22) ITK Crypto #10 - Ethergem- featuring Osoese & Tbates76  
 [youtube](https://youtu.be/lymppbvjOes)  
 (2019-03-20) EtherGem (EGEM) майним картами Nvidia (algo Ethash) | Выпуск 199 | Опыт майнинга криптовалют  
