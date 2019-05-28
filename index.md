@@ -59,6 +59,7 @@ EGEM is the stable pure no pre mine coin with applied technologies peernet and p
 </table>
 ## Official Sapphire [SFRX]  
 [Bitcointalk ANN](https://bitcointalk.org/index.php?topic=5063954.0)  
+[5 Sec BTC Proof of Concept](https://github.com/osoese/5SECPDF/blob/master/5-second-btc-proof-of-concept%20.pdf)  
 
 ### Social Media  
 [Reddit](https://www.reddit.com/r/egem/)  
