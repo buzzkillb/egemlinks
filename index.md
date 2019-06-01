@@ -121,6 +121,8 @@ Set custom network on Metamask -> https://lb.rpc.egem.io
 [EtherGem September 2018 Update](https://medium.com/@egem.cm/egem-september-update-4aae213a862e)  
 
 ### Video/Audo Streams  
+(2019-05-31) How to Mine EtherGem (EGEM) LIVE! ⛏  
+[youtube](https://www.youtube.com/watch?v=ktTdfPMMPD8)  
 (2019-05-29) SFRX Lets do a transaction and record  
 [youtube](https://www.youtube.com/watch?v=CMD6ytnCpdc)  
 (2019-05-27) SFRX Just quick update for buzz  
